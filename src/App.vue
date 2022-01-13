@@ -5,7 +5,7 @@
       <Lamp path='/yellow' class='yellow' :isActive="this.$store.state.yellowIsActive"/>
       <Lamp path='/green' class='green' :isActive="this.$store.state.greenIsActive"/>
     </div>
-    <h3>Made by @beliyzy for TrueConf</h3>
+    <h3>Made by @beliyzy</h3>
   </div>
 </template>
 
